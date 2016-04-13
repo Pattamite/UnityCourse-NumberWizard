@@ -1,1 +1,1 @@
-# UnityCourse-MagicNumber
+# UnityCourse-NumberWizard
